@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adutmo's GitHub Page</title>
+    <title>Nathaniel's GitHub Page</title>
     <style>
         body {
             margin: 0;
@@ -48,11 +48,11 @@
         <h1>What are you doing here?</h1>
     </header>
     <main>
-        <p>Hello! I'm Just Adutmo's Test GitHub page.</p>
-        <p>About me: adutmo.carrd.co </a>.</p>
+        <p>Hello! I'm Just Nathaniel's Test GitHub page.</p>
+        <p>About me: invester.carrd.co </a>.</p>
     </main>
     <footer>
-        <p>&copy; 2024 Adutmo</p>
+        <p>&copy; 2024 Nathaniel M.</p>
     </footer>
 </body>
 </html>
