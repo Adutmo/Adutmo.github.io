@@ -49,7 +49,7 @@
     </header>
     <main>
         <p>Hello! I'm Just Nathaniel's Test GitHub page.</p>
-        <p>About me: [website](https://whatiscrypto.carrd.co/)o </a>.</p>
+        <p>About me: https://whatiscrypto.carrd.co/ </p>
     </main>
     <footer>
         <p>&copy; 2024 Nathaniel M.</p>
