@@ -49,7 +49,7 @@
     </header>
     <main>
         <p>Hello! I'm Just Adutmo's Test GitHub page.</p>
-        <p>About me: <a href="adutmo.carrd.co" target="_blank">My bio</a>.</p>
+        <p>About me: adutmo.carrd.co </a>.</p>
     </main>
     <footer>
         <p>&copy; 2024 Adutmo</p>
